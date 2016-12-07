@@ -1,0 +1,12 @@
+I, [2016-12-07T21:09:02.513208 #29017]  INFO -- : listening on addr=/Users/gosia/infra1/sockets/tmp/sockets/unicorn.sock fd=10
+I, [2016-12-07T21:09:02.513680 #29017]  INFO -- : worker=0 spawning...
+I, [2016-12-07T21:09:02.514526 #29017]  INFO -- : worker=1 spawning...
+I, [2016-12-07T21:09:02.515453 #29017]  INFO -- : master process ready
+I, [2016-12-07T21:09:02.516770 #29018]  INFO -- : worker=0 spawned pid=29018
+I, [2016-12-07T21:09:02.517389 #29018]  INFO -- : Refreshing Gem list
+I, [2016-12-07T21:09:02.517648 #29019]  INFO -- : worker=1 spawned pid=29019
+I, [2016-12-07T21:09:02.518071 #29019]  INFO -- : Refreshing Gem list
+I, [2016-12-07T21:09:03.080375 #29019]  INFO -- : worker=1 ready
+I, [2016-12-07T21:09:03.080386 #29018]  INFO -- : worker=0 ready
+127.0.0.1 - - [07/Dec/2016:21:17:41 +0100] "GET / HTTP/1.0" 200 25 0.0959
+127.0.0.1 - - [07/Dec/2016:21:17:41 +0100] "GET /favicon.ico HTTP/1.0" 404 505 0.0051
